@@ -1,0 +1,18 @@
+{
+  recipient: "sha256$4f30aaf488e207f9dd29017ee17b5efc771c61eb98cbbc04c2b04797eb086702",
+  salt: "3bd1dcdca869a97cc63f987e4cc05c2b",
+  evidence: "https://redaktorcms.com/",
+  badge: {
+    version: "0.5.0",
+    name: "AJAX example Badge",
+    image: "https://redaktorcms.com//dev/OpenBadgesAjax/digital-badges/images/standard.png",
+    description: "Earner is ready to award badges with AJAX.",
+    criteria: "http://redaktorcms.com/dev/OpenBadgesAjax/digital-badges/badge-criteria.html",
+    issued_on: "2013-11-01",
+    expires: "2015-31-12",
+    issuer: {
+      origin: "https://redaktorcms.com/",
+      name: "Sebastian Lasse"
+    }
+  }
+}
